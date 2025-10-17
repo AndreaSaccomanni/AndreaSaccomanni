@@ -42,7 +42,7 @@
 
 - 📧 Email: andrea.saccomanni23@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrea-saccomanni)  
-- 🌐 Portfolio (coming soon)
+
 
 ---
 
