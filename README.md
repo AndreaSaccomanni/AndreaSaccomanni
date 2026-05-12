@@ -46,4 +46,4 @@
 
 ---
 
-> *“Costruisco soluzioni. Imparo. Cresco. Ripeto.”*
+> 
