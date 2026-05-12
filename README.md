@@ -14,12 +14,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=fff)
 ![MudBlazor](https://img.shields.io/badge/-MudBlazor-594AE2?style=flat)
-![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat&logo=dotnet&logoColor=fff)
-![.NET 10](https://img.shields.io/badge/-.NET%2010-512BD4?style=flat&logo=dotnet&logoColor=fff)
+
 
 ## Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![.NET 9](https://img.shields.io/badge/-.NET%209-512BD4?style=flat&logo=dotnet&logoColor=fff)
+![.NET 10](https://img.shields.io/badge/-.NET%2010-512BD4?style=flat&logo=dotnet&logoColor=fff)
 
 ## Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
